@@ -3,7 +3,7 @@
 
 <!-- Logo do colégio -->
 <p align="center">
-  <img src="https://link-da-logo-da-escola.com/logo.png" alt="Logo do Colégio" width="150"/>
+  <img src="https://umbrasil.org.br/wp-content/uploads/2015/11/2000px-Marys_monogram_Marist_Brothers.svg_.png" alt="Logo do Colégio" width="150"/>
 </p>
 
 <p align="center">
